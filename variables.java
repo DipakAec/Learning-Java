@@ -32,5 +32,7 @@ public class variables {
         System.out.println("Employee age: " + employeetAge);
         System.out.println("Employee salary: " + employeeSal);
         System.out.println("Employee grade: " + employeeGrade);
+
+      
     }
 }
